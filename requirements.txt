@@ -1,0 +1,5 @@
+voila
+pillow
+ipywidgets
+fastai==2.0.11
+fastcore==1.0.10
